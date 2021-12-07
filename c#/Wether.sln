@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{245689B8-15BD-4BE3-8D23-BB48F85348CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{AC04302D-7D37-4572-931A-4768E2B91621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WetherApi", "WetherApi\WetherApi.csproj", "{DE8393F1-59E0-4A97-9B1D-81DE76F99E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245689B8-15BD-4BE3-8D23-BB48F85348CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245689B8-15BD-4BE3-8D23-BB48F85348CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245689B8-15BD-4BE3-8D23-BB48F85348CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245689B8-15BD-4BE3-8D23-BB48F85348CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC04302D-7D37-4572-931A-4768E2B91621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC04302D-7D37-4572-931A-4768E2B91621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC04302D-7D37-4572-931A-4768E2B91621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC04302D-7D37-4572-931A-4768E2B91621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8393F1-59E0-4A97-9B1D-81DE76F99E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8393F1-59E0-4A97-9B1D-81DE76F99E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8393F1-59E0-4A97-9B1D-81DE76F99E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8393F1-59E0-4A97-9B1D-81DE76F99E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3643A48E-E98C-4D33-A922-E5DEA171914F}
+	EndGlobalSection
+EndGlobal

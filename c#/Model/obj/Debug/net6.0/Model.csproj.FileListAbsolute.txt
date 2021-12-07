@@ -1,0 +1,14 @@
+G:\Wether\Model\bin\Debug\net6.0\Wether.Model.deps.json
+G:\Wether\Model\bin\Debug\net6.0\Wether.Model.runtimeconfig.json
+G:\Wether\Model\bin\Debug\net6.0\Wether.Model.dll
+G:\Wether\Model\bin\Debug\net6.0\ref\Wether.Model.dll
+G:\Wether\Model\bin\Debug\net6.0\Wether.Model.pdb
+G:\Wether\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+G:\Wether\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Wether\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+G:\Wether\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+G:\Wether\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+G:\Wether\Model\obj\Debug\net6.0\Wether.Model.dll
+G:\Wether\Model\obj\Debug\net6.0\ref\Wether.Model.dll
+G:\Wether\Model\obj\Debug\net6.0\Wether.Model.pdb
+G:\Wether\Model\obj\Debug\net6.0\Model.genruntimeconfig.cache

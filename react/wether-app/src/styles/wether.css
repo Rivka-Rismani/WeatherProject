@@ -1,0 +1,34 @@
+
+.serch{
+    margin-left: 30vw;
+}
+.content{
+    display: inline;
+    margin-left: 4vw;
+}
+.linkWether{
+    margin-left: 50%;
+
+}
+.wether{
+margin-left: 50%;
+    margin-top: 6vh;
+}  
+.cities,.headline{
+    text-align: center;
+}
+footer{
+    margin-top: 51vh;
+    margin-left: 4vw;
+}
+button,footer,.headline,.wether ,a,.favoriteCities,li{
+    color: darkcyan;
+}
+ul{
+    width: 11%;
+
+}
+.favoriteCities{
+    margin-right: 80%;
+    font-size: x-large;
+}

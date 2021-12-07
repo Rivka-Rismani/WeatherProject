@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e51c3bc-2d87-457c-ac2d-e7a74755cf92": {
+      "ProjectGuid": "7e51c3bc-2d87-457c-ac2d-e7a74755cf92",
+      "DisplayName": "Dal",
+      "ColorIndex": 0
+    },
+    "4b9f2c86-cc57-42e3-af8b-6efa336ffcd6": {
+      "ProjectGuid": "4b9f2c86-cc57-42e3-af8b-6efa336ffcd6",
+      "DisplayName": "Dal",
+      "ColorIndex": 1
+    },
+    "66784816-ba6d-4999-ae50-56865ba63a4b": {
+      "ProjectGuid": "66784816-ba6d-4999-ae50-56865ba63a4b",
+      "DisplayName": "Dal",
+      "ColorIndex": 2
+    },
+    "245689b8-15bd-4be3-8d23-bb48f85348cd": {
+      "ProjectGuid": "245689b8-15bd-4be3-8d23-bb48f85348cd",
+      "DisplayName": "Model",
+      "ColorIndex": 3
+    },
+    "ac04302d-7d37-4572-931a-4768e2b91621": {
+      "ProjectGuid": "ac04302d-7d37-4572-931a-4768e2b91621",
+      "DisplayName": "Services",
+      "ColorIndex": 4
+    },
+    "0b3e970c-eb21-458a-a3ca-80d34ddd146c": {
+      "ProjectGuid": "0b3e970c-eb21-458a-a3ca-80d34ddd146c",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 5
+    },
+    "8fe52def-41f9-4d75-839a-f9de39fba7f8": {
+      "ProjectGuid": "8fe52def-41f9-4d75-839a-f9de39fba7f8",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 6
+    },
+    "80690bbb-982d-48c3-b35d-202ddff46bb1": {
+      "ProjectGuid": "80690bbb-982d-48c3-b35d-202ddff46bb1",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 7
+    },
+    "07066320-6bf8-4cbb-871e-0db843083574": {
+      "ProjectGuid": "07066320-6bf8-4cbb-871e-0db843083574",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 8
+    },
+    "f7e4f65a-f667-4bd0-a3e9-ab7ee4fe2199": {
+      "ProjectGuid": "f7e4f65a-f667-4bd0-a3e9-ab7ee4fe2199",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 9
+    },
+    "de8393f1-59e0-4a97-9b1d-81de76f99e91": {
+      "ProjectGuid": "de8393f1-59e0-4a97-9b1d-81de76f99e91",
+      "DisplayName": "WetherApi",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

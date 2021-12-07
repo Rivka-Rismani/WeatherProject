@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eD4qxdVlszdXH2aYiXhULctCWVz013rox7iRf66AXrs=",
+  "Source": "Wether.WetherApi",
+  "BasePath": "_content/Wether.WetherApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

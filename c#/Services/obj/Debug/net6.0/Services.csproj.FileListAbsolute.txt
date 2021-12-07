@@ -1,0 +1,15 @@
+G:\Wether\Services\bin\Debug\net6.0\Wether.Services.deps.json
+G:\Wether\Services\bin\Debug\net6.0\Wether.Services.dll
+G:\Wether\Services\bin\Debug\net6.0\ref\Wether.Services.dll
+G:\Wether\Services\bin\Debug\net6.0\Wether.Services.pdb
+G:\Wether\Services\bin\Debug\net6.0\Wether.Model.dll
+G:\Wether\Services\bin\Debug\net6.0\Wether.Model.pdb
+G:\Wether\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+G:\Wether\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Wether\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+G:\Wether\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+G:\Wether\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+G:\Wether\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+G:\Wether\Services\obj\Debug\net6.0\Wether.Services.dll
+G:\Wether\Services\obj\Debug\net6.0\ref\Wether.Services.dll
+G:\Wether\Services\obj\Debug\net6.0\Wether.Services.pdb
