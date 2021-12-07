@@ -1,13 +1,21 @@
 # WeatherProject
-There are two possibilities of running the database:
+Hi,
 
-1 Run the file located inside the sql folder
+ 
 
+There are two possible work in front of data:
 
-2 Go to the Startup file inside the c # folder and download the MocFavoriteCitiesService comment and put the FavoriteCitiesService in the comment
+ 
 
-* Do not forget to do npm i.
+Run the script in the SQL folder to create a db , and change the connectionString in an Appsetings.json file.
+Work with moc data -
+In the Startup file inside the C # folder,
 
-* And modify the ConnectionStrings in the appsetings file
+Put in note the : Services.Addtransient <Ifavorecitiesservice, Favorecitiesservice> ();
 
-Thanks
+And the comment from comment the Services.Addtransient <ifvorecitiesservice, mocfavorecitiesservice> ();
+
+Do not forget to do npm i.
+Thanks.
+
+בברכה,
